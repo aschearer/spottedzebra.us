@@ -50,3 +50,22 @@ a.center {
 table {
     overflow-x: auto;
 }
+
+figure {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+figure img { 
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+figure figcaption {
+    font-size: medium;
+    text-align: center;
+    color: rgba(56,56,56,0.5);
+}
