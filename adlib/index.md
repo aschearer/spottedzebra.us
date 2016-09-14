@@ -18,10 +18,10 @@ To date, Adlib has been enjoyed by over 500,000 people!
 <a class="button center" href="http://apps.microsoft.com/windows/app/adlib/7c910458-2502-490e-9294-29c645e05052">Play for free on Windows 8</a>
 
 <ol class="screenshots">
-    <li><a href="{{ site.baseurl }}/adlib/screenshot1.jpg"><img src="{{ site.baseurl }}/adlib/screenshot1.thumb.jpg" /></a></li>
-    <li><a href="{{ site.baseurl }}/adlib/screenshot2.jpg"><img src="{{ site.baseurl }}/adlib/screenshot2.thumb.jpg" /></a></li>
-    <li><a href="{{ site.baseurl }}/adlib/screenshot3.jpg"><img src="{{ site.baseurl }}/adlib/screenshot3.thumb.jpg" /></a></li>
-    <li><a href="{{ site.baseurl }}/adlib/screenshot4.jpg"><img src="{{ site.baseurl }}/adlib/screenshot4.thumb.jpg" /></a></li>
+    <li><a href="screenshot1.jpg"><img src="screenshot1.thumb.jpg" /></a></li>
+    <li><a href="screenshot2.jpg"><img src="screenshot2.thumb.jpg" /></a></li>
+    <li><a href="screenshot3.jpg"><img src="screenshot3.thumb.jpg" /></a></li>
+    <li><a href="screenshot4.jpg"><img src="screenshot4.thumb.jpg" /></a></li>
 </ol>
 
-[Want to write about Adlib? Download the Press Kit.]({{ site.baseurl }}/adlib/presskit.zip)
+[Want to write about Adlib? Download the Press Kit.](presskit.zip)
