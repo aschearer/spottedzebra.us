@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Oculus Rift First Impressions
+description: A look at the Oculus Rift from the eyes of an indie game developer.
 category: Opinion
 author: Alex Schearer
 ---

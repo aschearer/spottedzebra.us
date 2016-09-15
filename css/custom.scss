@@ -57,6 +57,14 @@ figure {
     margin-bottom: 10px;
 }
 
+figure.full-size {
+    width: 100%;
+}
+
+figure.small {
+    width: 25%;
+}
+
 figure img { 
     width: 100%;
     margin: 0;
