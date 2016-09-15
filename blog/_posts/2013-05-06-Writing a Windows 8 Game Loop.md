@@ -1,67 +1,70 @@
 ---
 layout: post
-title: Oculus Rift First Impressions
-description: A look at the Oculus Rift from the eyes of an indie game developer.
-category: Opinion
+title: Writing a Windows 8 Game Loop
+description: Examine three possible ways to create a game loop for a Windows Store application.
+category: Making Games
 author: Alex Schearer
 ---
 
-On Monday I received my [Oculus Rift](http://oculusvr.com/). 
-The Oculus is a headset with two screens built in. When playing a game it projects a separate 
-image for each eye. On top of that it has sensors to detect which way you're facing, so when 
-you look around the game world using the Oculus you literally turn your head. Having spent 
-some time playing with it and trying out various demos I thought I would share my impressions.
+When developing games for Windows 8 with C# 
+it is not immediately clear how to construct a basic game loop. For other Microsoft 
+platforms XNA is the obvious choice. However because Microsoft does not support XNA 
+in Windows 8, developers are left to their own resources. After developing several 
+games for Windows 8 I have compiled my experiences on the various ways to implement 
+a game loop for Windows 8 and C#. I invite you to read on and decide which one best 
+suits your needs.
 
-### Well Designed Dev Kit
-The first thing you notice about the Oculus is the case they ship it in. It's big, sturdy, 
-and well put together:
+If you decide to write a game using C# and XAML you may think to use a DispatcherTimer 
+to construct your game loop. While this works, in practice I have found its performance 
+to be unusable for games. Instead I have found three alternatives which provide adequate 
+performance without relying on the DispatcherTimer. Which one is right for you depends 
+on your situation. At a high level the options are:
 
-<figure>
-    <img src="{{site.url}}/img/posts/2013-05-29-Oculus Rift First Impressions/oculus-rift-dev-kit.thumb.jpg" alt="Oculus Rift dev kit" />
-    <figcaption>Oculus Rift dev kit</figcaption>
-</figure>
+||XNA and MonoGame|CompositionTarget Rendering|MonoGame's GameTimer
+External Dependency|&#9785; Yes|&#9786; No|&#9786; No
+Fixed Time Step|&#9786; Yes|&#9785; No|&#9786; Yes
+Variable Time Step|&#9786; Yes|&#9786; Yes|&#9786; Yes
 
-Inside there's the Oculus and a host of cables. Altogether things are organized, the 
-instructions are clear, and everything feels high quality. The dev kit does not feel like an 
-early beta &ndash; even more impressive considering that this all started with a Kickstarter 
-campaign.
+### Rely on MonoGame
+If you already have a game based on XNA, are willing to take on a big dependency, 
+or are creating a 3D game then using [MonoGame][1]
+to handle your game loop is likely your best choice. On the other hand, if you're 
+developing a 2D game and plan to have lots of user interface elements adopting 
+MonoGame may be overkill. Ultimately, you will have to decide whether you want to take 
+on a big external dependency and shape your code to fit into XNA's framework.
 
-### The Experience
+### CompositionTarget.Rendering
+If you are unfamiliar with XNA, want to create more complex user interfaces, want 
+to more easily support different screen resolutions, or just want to avoid an extra 
+dependency then your next option is to add an event handler for the global static event 
+[CompositionTarget.Rendering][2]. 
+This event fires once per each frame. The advantage of this approach is it is very easy 
+to implement. Simply add the event handler and be on your way. That being said, there 
+is no way to know how much time has passed between frames meaning your game's updates 
+will be linked to the frame rate. For many games this is not acceptable.
 
-The Tuscany demo really impressed me. You know what to expect &ndash; you turn around and the 
-world moves with you &ndash; still experiencing it in action was enough to put a smile on my 
-face. The level of immersion you feel is amazing. Oftentimes I forgot I was sitting in front 
-of a mouse and keyboard and would bump my head into the computer monitor.
+### Cherry Pick MonoGame's GameTimer
+Your game may not require XNA but you may need to know how much time has elapsed 
+between frames. As a result the first two options do not work for you game. 
+Fortunately, it's possible to combine the best of both approaches.
 
-All of that said, you are tied to a computer, mouse, and keyboard and I think that fact limits 
-the power of the Oculus. In particular I am not in love with the control scheme present in 
-most of the demos. You move with the arrow keys, rotate your body with the mouse, and move 
-your head with the Oculus. It sounds fine but in practice I found it unnatural. Wearing the 
-Oculus, I wanted to turn around and head in a new direction &ndash; head first, just like if 
-I were walking &ndash; but doing so would mean turning away from the keyboard and mouse. 
-Instead I found I often turned my head, then moved the mouse to adjust my in-game body, then 
-turned my head back towards the computer.
+You may be wondering how MonoGame supports a fixed time step in Windows 8. The 
+magic takes place in the GameTimer class. If you take a look you’ll see that 
+GameTimer also listens for the CompsotionTarget.Rendering event and uses a 
+[Stopwatch][3] to keep track of the time between events.
 
-<figure>
-    <img src="{{site.url}}/img/posts/2013-05-29-Oculus Rift First Impressions/oculus-fashion.thumb.jpg" alt="Catching up on the latest fashion" />
-    <figcaption>Catching up on the latest fashion</figcaption>
-</figure>
+Fortunately, MonoGame is an open source project licensed under the Microsoft 
+Public License. As a result you can simply take the [GameTimer class][4] 
+and add it to your project. This way you can develop a game with fixed or variable 
+time steps without adding an external dependency.
 
-Of all the demos I tried my favorite was the Tuscany one. The ones I downloaded from the 
-developer site either suffered from a very low framerate and lots of pop-ins, or else were 
-difficult to figure out or boring. I've also tried Half Life 2 with the Oculus and all-in-all 
-the experience is great. My only complaint is that the control scheme does not take advantage 
-of the Oculus as outlined above. Still that can be forgiven for a game released years before 
-the Oculus even existed! Most of the demos I found involved moving around a world in the first 
-person. Hardly surprising, but I am looking forward to playing some games which make more novel 
-use of the Oculus.
-
-### Only the Beginning
-
-The Oculus is still in developer preview and it is the early days of virtual reality. So I 
-can't be too critical of games which graft past control schemes onto the new device. Looking 
-forward, I don't think that all gaming in the future will be on something like the Oculus. 
-It's so different and out there that I imagine it won't appeal to everyone &ndash; even among 
-hardcore gamers. But the experience it offers is one of a kind and as a result I believe we 
-will see a new category of gaming emerge around it. What will those games look like? I'm not 
-entirely sure but I'm excited to find out!
+### Wrapping Up
+Ultimately which option is best depends on your circumstances. If you plan to use XNA 
+then using MonoGame is a no-brainer. If not then I would recommend using MonoGame's 
+GameTimer. In any case, you now have the knowledge to make an informed decision. Best 
+of luck developing your Windows 8 game!
+                            
+[1]:http://www.monogame.net/
+[2]: http://msdn.microsoft.com/en-us/library/system.windows.media.compositiontarget.rendering.aspx
+[3]: http://msdn.microsoft.com/en-us/library/system.diagnostics.stopwatch.aspx
+[4]: https://github.com/mono/MonoGame/blob/develop/MonoGame.Framework/GameTimer.cs
