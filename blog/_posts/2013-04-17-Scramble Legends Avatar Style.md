@@ -1,79 +1,79 @@
 ---
 layout: post
-title: "Making of Scramble Legends: Avatar Design"
-description: Learn how Spotted Zebra designed the nine avatars in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
+title: "Making of Scramble Legends: Avatar Style"
+description: Learn how Spotted Zebra settled on a style for the avatars in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
 category: "Making Games"
 author: Alex Schearer
 ---
 
-So far we've looked at how the [avatars' style was chosen][1]
-for Scramble Legends and heard from Kyle McGill about his 
-[process to create the final artwork][2]. 
-In this post we'll look at how Kyle and I proved that the 
-style had enough expressiveness for animation and variability 
-for different characters. Once we were satisfied we were finally 
-able to buckle down and create the nine avatars needed for 
-the game.
+Early on I
+decided that Scramble Legend would feature animated
+avatars to represent you in-game. I wanted to give 
+you a way to personalize the experience, create a 
+basis for branding the game, and add something fun, 
+quirky, and animated to the game area. Avatars gave 
+me a way to accomplish all three goals.
 
-For starters we needed to determine whether the
-style would support enough characters in the event
-that we wanted to add more avatars to the game for
-special promotions, seasons, etc. From our previous
-prototyping we felt confident this would be the
-case, but I like to make sure of these things
-before making comparatively more expensive, final
-assets. If the style won't ultimately work for many
-different avatars then I want to find that out as
-soon as possible!
-
-To answer our query Kyle produced two sets of heads
-trying to get as much variability as possible. As
-you can see there are some really off the wall
-characters in there. After seeing these I was
-convinced the style would support as many
-characters as needed.
+With that being said, I was not initially sure what
+style to adopt for the avatars. To help me decide
+and to produce the final art assets I recruited the
+help of Kyle McGill. To start off, Kyle and I tried
+to determine what the style should be. We
+brainstormed a number of ideas ranging from
+vegetables to super heroes to giant alligators.
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/variability-test.jpg">
-        <img src="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/variability-test.thumb.jpg" alt="Testing for style variability"/>
-    </a>
-    <figcaption>Testing for variability within the Tintin style</figcaption>
+    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/fantasy-style.thumb.jpg" alt="Fantasy avatar style mock up for Scramble Legends" />
+    <figcaption>Imaginary animal style</figcaption>
 </figure>
 
-The next question was whether the style would look
-good animated. I wanted each avatar to have several
-different visual states to reflect the state of the
-game.  Ideally they would even animate between the
-states.  In any case, the art style needed to have
-the expressiveness required to show the characters'
-emotions. Once again Kyle went to work this time
-prototyping different emotions for some of the
-possible avatars:
+In my opinion, it was incredibly important to spend
+time trying a bunch of different styles. At this
+stage we were able to test multiple ideas each day.
+This gave us a sense of what worked and what didn't
+&ndash; both for the game as well as for our skill
+sets. Furthermore, because the tests were
+relatively cheap to produce we could try many
+things &ndash; in the end we tried ten different
+passes. This gave us confidence when we moved to
+the next step that we were making the right
+decision. You may be wondering, why bother to do
+all of this exploratory work? In my opinion, it's
+very important because when creating artwork for
+the game each subsequent step is more expensive
+and time consuming. Measure twice cut once!
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/expressiveness-test.jpg">
-        <img src="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/expressiveness-test.thumb.jpg" alt="Testing for style expressivesness"/>
-    </a>
-    <figcaption>Testing for expressiveness within the Tintin style</figcaption>
+    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/watterson-style.thumb.jpg" alt="Watterson-inspired avatar style mock up for Scramble Legends" />
+    <figcaption>Bill Watterson inspired style</figcaption>
 </figure>
 
-Confident that the art style would support
-expressive, varied avatars it was time to figure
-out which avatars to use for the game and then to
-generate the final art assets. To be honest at this
-point I simply chose the avatars that looked fun
-and interesting to me!
-                            
-When the process finally finished Kyle produced
-nine excellent avatars each with four distinct
-states!                            
+Honestly, there were a lot of great ideas and I
+would love to see some of the things we explored
+fleshed out into a more complete style.
+Nevertheless, a decision had to be be made! So how
+did we narrow things down? Well for starters
+intuition and taste. However we also had three
+guiding concerns to aid us:
+
+  * The relative cost to produce the art style, including how well it suited Kyle's skillset
+  * The expected appeal with Scramble Legend's target audience: women
+  * The ability to extend and adapt the art style for new needs, special promotions, etc.
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/final-avatars.jpg">
-        <img src="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/final-avatars.thumb.jpg" alt="Rought draft of the final avatars in Scramble Legends"/>
-    </a>
-    <figcaption>Rought draft of the final avatars in Scramble Legends</figcaption>
+    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/office-style.thumb.jpg" alt="Office avatar style mock up for Scramble Legends" />
+    <figcaption>Office super heroes style</figcaption>
 </figure>
 
-[1]: scramble-legends-avatar-style.html
-[2]: home-brewed-avatars.html
+In the end we chose the Tintin style. I felt this
+style struck the best balance across the three
+dimensions, not to mention just looking good. With
+that decision out of the way you might imagine that
+our journey in avatar design is finished, but you
+would be wrong! In fact, we are just getting
+started... but that's a story for next time.
+
+<figure>
+    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/tintin-style.thumb.jpg" alt="Tintin inspired avatar style mock up for Scramble Legends" />
+    <figcaption>Tintin inspired style. The final style for the avatars in Scramble Legends</figcaption>
+</figure>
