@@ -69,3 +69,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+permalink: blog/:slug.html

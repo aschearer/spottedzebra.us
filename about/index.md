@@ -24,7 +24,7 @@ many platforms and using many languages. Most recently I developed and released 
 on Mac, PC, PlayStation 4, Xbox One, and Wii U. Tumblestone won Intel’s 
 “Level Up: Best Puzzle Game” award, was selected for the PAX 10 and PAX East Indie Showcase, 
 and launched in July as part of Xbox Game’s with Gold. The game features local and online 
-multiplayer, a 30-hour story mode with cutscenes, boss battles, and more, 3 arcade modes, 
+multiplayer, a 30-hour story mode with cutscenes, boss battles, 3 arcade modes, 
 and is available in 21 languages.
 
 When I'm not working I help organize events with [Seattle Indies](http://seattleindies.org),

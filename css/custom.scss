@@ -1,5 +1,14 @@
 ---
 ---
+
+.page-link {
+    margin: 0 0.4em;
+}
+
+.page-link:hover {
+    color: #1ABC9C;
+}
+
 .windows-surface {
     background: url('/img/devices/window-surface-landscape.png') no-repeat;
     background-size: 100%;
