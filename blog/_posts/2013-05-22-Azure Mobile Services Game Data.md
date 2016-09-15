@@ -118,3 +118,5 @@ between objects is more complicated, in particular because joins are not support
 work around these limitations it's necessary to choose between runtime performance and 
 fault tolerance or storage space and consistency. In my opinion the best bet is to have 
 a snappier, less error prone game by denormalizing data.
+
+{% include windows-8-dev-footer.html %}

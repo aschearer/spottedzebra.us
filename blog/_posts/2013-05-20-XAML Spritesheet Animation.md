@@ -92,3 +92,5 @@ using spritesheets for Windows 8. It's easy to imagine extending this solution t
 support atlases, too.
 
 [Source code for the examples in this post.](https://gist.github.com/aschearer/5606865)
+
+{% include windows-8-dev-footer.html %}

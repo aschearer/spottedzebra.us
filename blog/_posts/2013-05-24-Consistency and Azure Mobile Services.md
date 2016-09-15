@@ -109,3 +109,5 @@ optimized approach I took for Scramble Legends and then upgrade to a more robust
 solution when you have proven there’s a market for your game.
 
 [Source code for the example in this post.](https://gist.github.com/aschearer/5642193)
+
+{% include windows-8-dev-footer.html %}

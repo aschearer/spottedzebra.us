@@ -57,3 +57,5 @@ Most game developers are not web developers, and most games need authentication,
 notifications at the very least. So if the choice is between spending a 
 great deal of time reinventing the wheel with Azure Cloud Storage or paying a bit more 
 for Azure Mobile Services I would recommend the later every time.
+
+{% include windows-8-dev-footer.html %}

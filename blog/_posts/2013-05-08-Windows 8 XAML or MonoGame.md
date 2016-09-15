@@ -61,3 +61,5 @@ myself, I originally created games for Windows 8 using MonoGame but have since s
 to using vanilla C# and XAML. In my case I wanted to leverage WinRT’s support for 
 different resolution and reduce the overhead associated with managing MonoGame and 
 XAML side by side. What will you choose?
+
+{% include windows-8-dev-footer.html %}

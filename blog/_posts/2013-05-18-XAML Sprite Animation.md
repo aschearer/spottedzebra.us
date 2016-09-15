@@ -98,6 +98,8 @@ full source code for this example below:
 
 Next time we'll take a look at [animating a spritesheet or a series of sprites][3] 
 using XAML, so stay tuned!
+
+{% include windows-8-dev-footer.html %}
                             
 [1]: http://msdn.microsoft.com/en-us/library/system.windows.controls.canvas.aspx
 [2]: {%post_url 2013-05-06-Writing a Windows 8 Game Loop%}

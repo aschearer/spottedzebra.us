@@ -63,6 +63,8 @@ Ultimately which option is best depends on your circumstances. If you plan to us
 then using MonoGame is a no-brainer. If not then I would recommend using MonoGame's 
 GameTimer. In any case, you now have the knowledge to make an informed decision. Best 
 of luck developing your Windows 8 game!
+
+{% include windows-8-dev-footer.html %}
                             
 [1]:http://www.monogame.net/
 [2]: http://msdn.microsoft.com/en-us/library/system.windows.media.compositiontarget.rendering.aspx
