@@ -2,7 +2,7 @@
 layout: post
 title: "Making of Scramble Legends: End Game Condition"
 description: Learn how Spotted Zebra designed the game over condition in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
-category: "Making Games"
+categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
 ---
 
@@ -82,5 +82,7 @@ In the end, you try to bury your opponent in
 Scramble Legends. I'm quite excited about this end
 game condition and feel it offers the most skillful
 and exciting gameplay.
+
+{% include scramble-legends-footer.html %}
 
 [1]: {{site.url}}/adlib

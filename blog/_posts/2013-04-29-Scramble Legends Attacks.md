@@ -2,7 +2,7 @@
 layout: post
 title: "Making of Scramble Legends: Attack Design"
 description: Learn how Spotted Zebra designed player attacks in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
-category: "Making Games"
+categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
 ---
 
@@ -117,3 +117,5 @@ with your opponent. The target emotions I wanted
 Scramble Legends to evoke acted as a guide and helped 
 direct my design. In the end, Scramble Legends is all 
 about hectic, skillful competition with your friends!
+
+{% include scramble-legends-footer.html %}

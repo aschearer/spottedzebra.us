@@ -7,10 +7,18 @@ layout: default
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
     {% if page.category %} - {{ page.category }}{% endif %}
+    {% if page.categories %} - {{ page.categories[1] }}{% endif %}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>
+  {% if page.author == "David Kizale" %}
+    {% include author-david-kizale.html %}
+  {% elsif page.author == "Kyle McGill" %}
+    {% include author-kyle-mcgill.html %}
+  {% else %}
+    {% include author-alex-schearer.html %}
+  {% endif %}
 </article>
 
 <!-- Post navigation -->

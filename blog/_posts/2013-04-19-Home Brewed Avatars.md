@@ -2,7 +2,7 @@
 layout: post
 title: "Home Brewed Avatars"
 description: A guest post by Kyle McGill, artist for Scramble Legends, which explores how he created the game's awesome artwork. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
-category: "Making Games"
+categories: ["Making Games", "Scramble Legends"]
 author: Kyle McGill
 ---
 
@@ -143,3 +143,5 @@ aesthetic, to finish line.
     <img src="{{site.url}}/img/posts/2013-04-19-Home Brewed Avatars/scramble-legends-poster.thumb.jpg" alt="The Scramble Legend avatars together" />
     <figcaption>The Scramble Legend avatars together</figcaption>
 </figure>
+
+{% include scramble-legends-footer.html %}

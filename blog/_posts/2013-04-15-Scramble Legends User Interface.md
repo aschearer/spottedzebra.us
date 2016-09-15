@@ -2,7 +2,7 @@
 layout: post
 title: "Making of Scramble Legends: User Interface"
 description: Learn how Spotted Zebra designed the user interface for Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
-category: "Making Games"
+categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
 ---
 
@@ -106,3 +106,5 @@ quite pleased with the result. The avatars, board,
 and eyes are all alive with activity, and there are
 very few non-essential elements on the screens
 letting you focus on the act of spelling.
+
+{% include scramble-legends-footer.html %}

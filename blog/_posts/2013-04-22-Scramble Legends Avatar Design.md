@@ -2,7 +2,7 @@
 layout: post
 title: "Making of Scramble Legends: Avatar Design"
 description: Learn how Spotted Zebra designed the nine avatars in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
-category: "Making Games"
+categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
 ---
 
@@ -74,6 +74,8 @@ states!
     </a>
     <figcaption>Rought draft of the final avatars in Scramble Legends</figcaption>
 </figure>
+
+{% include scramble-legends-footer.html %}
 
 [1]: {%post_url 2013-04-17-Scramble Legends Avatar Style%}
 [2]: {%post_url 2013-04-19-Home Brewed Avatars%}

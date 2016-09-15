@@ -86,3 +86,49 @@ figure figcaption {
     text-align: center;
     color: rgba(56,56,56,0.5);
 }
+
+.continue-reading {
+    background-color: #fafafa;
+    font-size: medium;
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+
+.continue-reading header {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-weight: bold;
+}
+
+.continue-reading li {
+    list-style-type: square;
+    margin: 5px 0;
+}
+
+.about-the-author {
+    background-color: #fafafa;
+    font-size: medium;
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+
+.about-the-author img {
+    float: left;
+    margin: 0 13px 5px 0;
+}
+
+.about-the-author header {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-weight: bold;
+}
+
+.about-the-author p {
+    line-height: 1.25em;
+}
+
+.clear {
+    clear: both;
+}

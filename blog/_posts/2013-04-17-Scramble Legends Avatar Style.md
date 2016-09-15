@@ -2,7 +2,7 @@
 layout: post
 title: "Making of Scramble Legends: Avatar Style"
 description: Learn how Spotted Zebra settled on a style for the avatars in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
-category: "Making Games"
+categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
 ---
 
@@ -77,3 +77,5 @@ started... but that's a story for next time.
     <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/tintin-style.thumb.jpg" alt="Tintin inspired avatar style mock up for Scramble Legends" />
     <figcaption>Tintin inspired style. The final style for the avatars in Scramble Legends</figcaption>
 </figure>
+
+{% include scramble-legends-footer.html %}

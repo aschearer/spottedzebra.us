@@ -2,7 +2,7 @@
 layout: post
 title: "Making of Scramble Legends: Sound Design"
 description: A guest post by David Kizale, sound designer for Scramble Legends. Learn how David designs the sounds for the game.
-category: Making Games
+categories: ["Making Games", "Scramble Legends"]
 author: David Kizale
 ---
 
@@ -77,3 +77,5 @@ without encroaching too far into their awareness
 which is mostly focused on finding and arranging
 words. As all veteran sound designers say, "you
 know you're doing your job when nobody notices."
+
+{% include scramble-legends-footer.html %}
