@@ -14,7 +14,7 @@ theme_settings:
   header_text: >
   header_text_feature_image:
   footer_text: >
-   Based out of Seattle, Washington.
+   Based out of Seattle, Washington
 
   # Icons
   rss: false
@@ -24,7 +24,7 @@ theme_settings:
   dribbble:
   facebook: schearer
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "aschearer"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -41,7 +41,7 @@ theme_settings:
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
