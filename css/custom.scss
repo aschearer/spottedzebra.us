@@ -132,3 +132,24 @@ figure figcaption {
 .clear {
     clear: both;
 }
+
+.other-game {
+    width: 49%;
+    float: left;
+}
+
+.other-game .thumb {
+    margin-bottom: 10px;
+}
+
+.other-game img {
+}
+
+.other-game figcaption table {
+    display: normal;
+    margin: 0;
+}
+
+.other-game.odd {
+    margin-right: 2%;
+}

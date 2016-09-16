@@ -1,0 +1,20 @@
+{% for game in games %}
+    {% capture thecycle %}{% cycle 'odd', '' %}{% endcapture %}
+<figure class="other-game {{ thecycle }}">
+    <header>{{game.name}} ({{game.year}})</header>
+    <div class="thumb">
+        <img src="{{game.thumb}}" alt="{{game.description}}" />
+    </div>
+    <figcaption>
+        <table>
+            <tr>
+                <td>Platform</td> <td>{{game.platform}}</td>
+            </tr>
+            <tr>
+                <td>Description</td> <td>{{game.description}}</td>
+            </tr>
+        </table>
+    </figcaption>
+</figure>
+{% endfor %}
+<div class="clear"></div>
