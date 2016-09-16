@@ -4,6 +4,7 @@ title: "XAML and Game Development: Spritesheet Animations"
 description: Examine how to animate a spritesheet using XAML for Windows 8. Source code included.
 category: Making Games
 author: Alex Schearer
+slug: xaml-spritesheet-animation
 ---
 
 Last time I showed you how to move images 

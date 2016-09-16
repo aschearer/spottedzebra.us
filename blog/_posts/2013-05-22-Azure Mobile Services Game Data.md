@@ -4,6 +4,7 @@ title: "Storing Game Data in the Cloud: Using Azure Mobile Services"
 description: Learn how to persist your game data in the cloud using Azure Mobile Services.
 category: "Making Games"
 author: Alex Schearer
+slug: azure-mobile-services-game-data
 ---
 
 Previously I [recommended using Azure Mobile Services]({%post_url 2013-05-10-Azure Mobile Services or Cloud Storage %}) 

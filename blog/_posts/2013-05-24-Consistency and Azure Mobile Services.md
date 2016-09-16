@@ -4,6 +4,7 @@ title: "Storing Game Data in the Cloud: Keeping Data Consistent"
 description: You're using Azure Mobile Services to persist your data but things are denormalized. How do you keep data consistent? Find out how. Source code included.
 category: Making Games
 author: Alex Schearer
+slug: consistency-and-azure-mobile-services
 ---
 
 Last time we looked at how you could [persist your game data using Azure Mobile Services]({%post_url 2013-05-22-Azure Mobile Services Game Data %}). 

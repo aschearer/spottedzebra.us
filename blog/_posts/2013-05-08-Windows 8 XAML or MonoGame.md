@@ -4,6 +4,7 @@ title: "Windows 8 Game Development: XAML or MonoGame?"
 description: You can write games for Windows 8 using C# and XAML or MonoGame - but how do you decide? This post explores each option's tradeoffs so you can get back to work!
 category: Making Games
 author: Alex Schearer
+slug: windows-8-xaml-or-monogame
 ---
 
 XAML and C# are great technologies for creating 

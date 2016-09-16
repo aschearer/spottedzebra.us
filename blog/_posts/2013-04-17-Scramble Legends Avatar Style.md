@@ -4,6 +4,7 @@ title: "Making of Scramble Legends: Avatar Style"
 description: Learn how Spotted Zebra settled on a style for the avatars in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
 categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
+slug: scramble-legends-avatar-style
 ---
 
 Early on I

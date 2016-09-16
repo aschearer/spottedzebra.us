@@ -4,6 +4,7 @@ title: Oculus Rift First Impressions
 description: A look at the Oculus Rift from the eyes of an indie game developer.
 categories: Opinion
 author: Alex Schearer
+slug: oculus-rift-first-impressions
 ---
 
 On Monday I received my [Oculus Rift](http://oculusvr.com/). 

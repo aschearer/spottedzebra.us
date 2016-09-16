@@ -4,6 +4,7 @@ title: "XAML and Game Development: Using Canvas to Animate Images"
 description: Examine how to animate a sprite using XAML for Windows 8. Source code included.
 category: Making Games
 author: Alex Schearer
+slug: xaml-sprite-animation
 ---
 
 When working with XAML to develop a game for 

@@ -4,6 +4,7 @@ title: "Ignore Windows 8 at Your Peril"
 description: Windows 8 is going to sell 1,000,000 copies in its first year. Why are you ignoring it?
 category: "Opinion"
 author: Alex Schearer
+slug: ignore-windows-8-at-your-peril
 ---
 
 Having recently founded Spotted Zebra, an independent game studio, one of my first 

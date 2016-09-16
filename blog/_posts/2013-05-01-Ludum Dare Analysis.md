@@ -4,6 +4,7 @@ title: "A Look at Ludum Dare"
 description: An analysis of Ludum Dare's 23, 24, and 25. After extracting data from these contests, what lessons can we draw from the data?
 category: "Making Games"
 author: Alex Schearer
+slug: ludum-dare-analysis
 ---
 
 This past weekend Ludum Dare 26 took place. 

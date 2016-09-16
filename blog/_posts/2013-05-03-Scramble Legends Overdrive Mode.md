@@ -4,6 +4,7 @@ title: "Making of Scramble Legends: Overdrive Mode"
 description: Learn how Spotted Zebra designed Overdrive Mode in Scramble Legends. Scramble Legends is a social, turn based word game for Windows 8. Spell words to bury your opponent in letters!
 categories: ["Making Games", "Scramble Legends"]
 author: Alex Schearer
+slug: scramble-legends-overdrive-mode
 ---
 
 Scramble Legends rewards you for spelling 

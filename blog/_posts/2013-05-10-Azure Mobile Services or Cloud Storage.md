@@ -4,6 +4,7 @@ title: "Storing Game Data in the Cloud: Azure Mobile Services or Cloud Storage"
 description: Azure offers two services to store your game's data in the cloud. Learn about them both and decide which one will work best for you.
 category: Making Games
 author: Alex Schearer
+slug: azure-mobile-services-or-cloud-storage
 ---
 
 Early on I decided to use Azure. First because I was using .NET and the tooling support is great. 

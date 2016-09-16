@@ -4,6 +4,7 @@ title: Writing a Windows 8 Game Loop
 description: Examine three possible ways to create a game loop for a Windows Store application.
 category: Making Games
 author: Alex Schearer
+slug: windows-8-game-loop
 ---
 
 When developing games for Windows 8 with C# 

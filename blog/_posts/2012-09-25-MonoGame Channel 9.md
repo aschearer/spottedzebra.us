@@ -4,6 +4,7 @@ title: "Spotted Zebra on Channel 9"
 description: Learn how to port a XNA game from Windows 7 to Windows 8 using MonoGame.
 category: "Making Games"
 author: Alex Schearer
+slug: monogame-channel9
 ---
 
 Earlier this month Microsoft Belgium invited me to present the ins and outs of 
