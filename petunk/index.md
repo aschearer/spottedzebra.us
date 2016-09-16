@@ -23,5 +23,3 @@ handmade artwork, over thirty levels, and its fans agree – Petunk is a five-st
     <li><a href="screenshot3.jpg"><img src="screenshot3.thumb.jpg" /></a></li>
     <li><a href="screenshot4.jpg"><img src="screenshot4.thumb.jpg" /></a></li>
 </ol>
-
-[Want to write about Petunk? Download the Press Kit.](presskit.zip)
