@@ -48,8 +48,7 @@ Facebook | <a href="http://facebook.com/{{site.theme_settings.facebook}}">@Schea
 
 #### Other Games I've Created
 Over the years I've released a number of smaller games as well as participated in many game jams.
-The list is too long to enumerate here, but if you'd like to check them out the complete list is
-available here: [complete list of games.][6]
+The list is too long to enumerate here, but if you'd like to check them out visit: [the complete list of games.][6]
 
 [1]: http://mochiland.com/articles/dictionary-com-word-play-winners
 [2]: http://operating-systems.wonderhowto.com/how-to/10-best-free-games-windows-8-app-store-right-now-0140507/

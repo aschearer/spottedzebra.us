@@ -1,5 +1,9 @@
 <div class="continue-reading">
+{% if start-reading %}
+    <header>Read the "Making of Scramble Legends" series:</header>
+{% else %}
     <header>Keep reading the "Making of Scramble Legends" series:</header>
+{% endif %}
     <ol>
         <li><a href="{%post_url 2013-04-15-Scramble Legends User Interface%}">User Interface</a>: a look at how the user interface was designed</li>
         <li><a href="{%post_url 2013-04-17-Scramble Legends Avatar Style%}">Avatar Style</a>: follow the evolution of Scramble Legends' art style</li>

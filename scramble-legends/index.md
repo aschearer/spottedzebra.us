@@ -22,3 +22,6 @@ Scramble Legends is a competitive, turn-based word game – find out which of yo
     <li><a href="screenshot3.jpg"><img src="screenshot3.thumb.jpg" /></a></li>
     <li><a href="screenshot4.jpg"><img src="screenshot4.thumb.jpg" /></a></li>
 </ol>
+
+{% assign start-reading = true %}
+{% include scramble-legends-footer.html %}
