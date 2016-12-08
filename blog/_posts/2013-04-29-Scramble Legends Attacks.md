@@ -65,7 +65,7 @@ might imagine that proved to be much too powerful
 and games typically ended in one or two turns. 
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-29-Scramble Legends Attacks/almost-full-board.thumb.jpg" alt="An almost full board in Scramble Legends"/>
+    <img src="/img/posts/2013-04-29-Scramble Legends Attacks/almost-full-board.thumb.jpg" alt="An almost full board in Scramble Legends"/>
     <figcaption>An almost full board in Scramble Legends</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ of your attack. This provides a great opportunity
 to plan ahead and unleash a super powerful attack.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-29-Scramble Legends Attacks/attack-strength-chart.jpg" alt="Analysis comparing different power levels for one or more bonus letters in a word."/>
+    <img src="/img/posts/2013-04-29-Scramble Legends Attacks/attack-strength-chart.jpg" alt="Analysis comparing different power levels for one or more bonus letters in a word."/>
     <figcaption>Analysis comparing different power levels for one or more bonus letters in a word.</figcaption>
 </figure>
 

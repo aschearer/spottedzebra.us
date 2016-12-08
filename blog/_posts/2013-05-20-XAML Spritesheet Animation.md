@@ -26,8 +26,8 @@ with latency when opening images for the first time. Here’s an example sprites
 from my game Adlib:
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-05-20-XAML Spritesheet Animation/scared-owl-spritesheet.png">
-        <img src="{{site.url}}/img/posts/2013-05-20-XAML Spritesheet Animation/scared-owl-spritesheet.thumb.png" alt="Owl spritesheet used in Adlib"/>
+    <a href="/img/posts/2013-05-20-XAML Spritesheet Animation/scared-owl-spritesheet.png">
+        <img src="/img/posts/2013-05-20-XAML Spritesheet Animation/scared-owl-spritesheet.thumb.png" alt="Owl spritesheet used in Adlib"/>
     </a>
     <figcaption>Owl spritesheet used in Adlib</figcaption>
 </figure>

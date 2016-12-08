@@ -38,14 +38,14 @@ Given the way simulations work in Scramble Legends, there are three data types w
 need to be persisted: the players, games, and instructions.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-05-22-Azure Mobile Services Game Data/data-objects.png" alt="Outline of the data objects in Scramble Legends"/>
+    <img src="/img/posts/2013-05-22-Azure Mobile Services Game Data/data-objects.png" alt="Outline of the data objects in Scramble Legends"/>
     <figcaption>Outline of the data objects in Scramble Legends</figcaption>
 </figure>
 
 If I were using a SQL database I would map these objects to three tables:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-05-22-Azure Mobile Services Game Data/sql-table.png" alt="Mapping the data objects to SQL tables"/>
+    <img src="/img/posts/2013-05-22-Azure Mobile Services Game Data/sql-table.png" alt="Mapping the data objects to SQL tables"/>
     <figcaption>Mapping the data objects to SQL tables</figcaption>
 </figure>
 

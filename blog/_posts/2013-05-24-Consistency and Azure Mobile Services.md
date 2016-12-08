@@ -19,7 +19,7 @@ information for a game in a single query, but if the a player updates her name t
 games table will be out of date.
 
 <figure class="full-size">
-    <img src="{{site.url}}/img/posts/2013-05-24-Consistency and Azure Mobile Services/denormalized-game-data.png" alt="Denormalized Game Data Stored in Azure"/>
+    <img src="/img/posts/2013-05-24-Consistency and Azure Mobile Services/denormalized-game-data.png" alt="Denormalized Game Data Stored in Azure"/>
     <figcaption>Denormalized Game Data Stored in Azure</figcaption>
 </figure>
 

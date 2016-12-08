@@ -15,7 +15,7 @@ developing Adlib, Petunk, and Scramble Legends, I've tried to provide a guide to
 you make a more informed decision when developing a game for Windows 8.
 
 <figure>
-    <a href="/"><img src="{{site.url}}/img/posts/2013-05-08-Windows 8 XAML or MonoGame/games-logos.jpg" alt="Adlib, Petunk, and Scramble Legends: Three fun games free for Windows 8 by Spotted Zebra"/></a>
+    <a href="/"><img src="/img/posts/2013-05-08-Windows 8 XAML or MonoGame/games-logos.jpg" alt="Adlib, Petunk, and Scramble Legends: Three fun games free for Windows 8 by Spotted Zebra"/></a>
     <figcaption>Adlib, Petunk, and Scramble Legends: Three fun games free for Windows 8 by Spotted Zebra</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ requirements you may still want to use MonoGame. Here are some questions to help
 decide if MonoGame is still a good choice:
 
 <figure class="small">
-    <a href="http://monogame.net"><img src="{{site.url}}/img/posts/2013-05-08-Windows 8 XAML or MonoGame/monogame-logo.png" alt="MonoGame is an open source implementaiton of XNA available for Windows 8"/></a>
+    <a href="http://monogame.net"><img src="/img/posts/2013-05-08-Windows 8 XAML or MonoGame/monogame-logo.png" alt="MonoGame is an open source implementaiton of XNA available for Windows 8"/></a>
     <figcaption>MonoGame is an open source implementaiton of XNA available for Windows 8</figcaption>
 </figure>
 

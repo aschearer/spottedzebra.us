@@ -45,8 +45,8 @@ Visibility as Collapsed will hide it from view. At the moment, this is what our
 game looks like:
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-05-18-XAML Sprite Animation/animating-with-canvas.png">
-        <img src="{{site.url}}/img/posts/2013-05-18-XAML Sprite Animation/animating-with-canvas-thumb.png" alt="Our sprites positioned absolutely using the Canvas"/>
+    <a href="/img/posts/2013-05-18-XAML Sprite Animation/animating-with-canvas.png">
+        <img src="/img/posts/2013-05-18-XAML Sprite Animation/animating-with-canvas-thumb.png" alt="Our sprites positioned absolutely using the Canvas"/>
     </a>
     <figcaption>Our sprites positioned absolutely using the Canvas</figcaption>
 </figure>

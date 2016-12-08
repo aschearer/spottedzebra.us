@@ -18,7 +18,7 @@ The first thing you notice about the Oculus is the case they ship it in. It's bi
 and well put together:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-05-29-Oculus Rift First Impressions/oculus-rift-dev-kit.thumb.jpg" alt="Oculus Rift dev kit" />
+    <img src="/img/posts/2013-05-29-Oculus Rift First Impressions/oculus-rift-dev-kit.thumb.jpg" alt="Oculus Rift dev kit" />
     <figcaption>Oculus Rift dev kit</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Instead I found I often turned my head, then moved the mouse to adjust my in-gam
 turned my head back towards the computer.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-05-29-Oculus Rift First Impressions/oculus-fashion.thumb.jpg" alt="Catching up on the latest fashion" />
+    <img src="/img/posts/2013-05-29-Oculus Rift First Impressions/oculus-fashion.thumb.jpg" alt="Catching up on the latest fashion" />
     <figcaption>Catching up on the latest fashion</figcaption>
 </figure>
 

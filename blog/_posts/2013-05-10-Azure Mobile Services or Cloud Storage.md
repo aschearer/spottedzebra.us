@@ -11,7 +11,7 @@ Early on I decided to use Azure. First because I was using .NET and the tooling 
 Second because I am a BizSpark member and have some free Azure resources. And third because I did 
 not want to mess around withservers or other infrastructure but still wanted to know my game could 
 scale on demand. Having decided to use Azure, I still needed to determine how to persist 
-[Scramble Legend's]({{site.url}}/scramble-legends) data. Two solutions stood out: Azure Mobile Services 
+[Scramble Legend's](/scramble-legends) data. Two solutions stood out: Azure Mobile Services 
 and Azure Cloud Storage. 
 
 Azure Mobile Services provides a set of tools intended to address common app developer 
@@ -29,7 +29,7 @@ as of writing this &ndash; and there are some rough edges.
 
 <figure class="small">
     <a href="http://www.windowsazure.com/en-us/develop/mobile/">
-        <img src="{{site.url}}/img/posts/2013-05-10-Azure Mobile Services or Cloud Storage/azure-mobile-services.jpg" alt="Azure Mobile Services tries to solve common app developer problems"/>
+        <img src="/img/posts/2013-05-10-Azure Mobile Services or Cloud Storage/azure-mobile-services.jpg" alt="Azure Mobile Services tries to solve common app developer problems"/>
     </a>
     <figcaption>Azure Mobile Services tries to solve common app developer problems</figcaption>
 </figure>
@@ -48,7 +48,7 @@ Mobile Services provides you will have to create your own service.
 
 <figure class="small">
     <a href="http://www.windowsazure.com/en-us/manage/services/storage/">
-        <img src="{{site.url}}/img/posts/2013-05-10-Azure Mobile Services or Cloud Storage/azure-cloud-storage.jpg" alt="Azure Cloud Storage provides a cheap and easy way to load and store data"/>
+        <img src="/img/posts/2013-05-10-Azure Mobile Services or Cloud Storage/azure-cloud-storage.jpg" alt="Azure Cloud Storage provides a cheap and easy way to load and store data"/>
     </a>
     <figcaption>Azure Cloud Storage provides a cheap and easy way to load and store data</figcaption>
 </figure>

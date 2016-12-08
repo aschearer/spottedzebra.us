@@ -16,7 +16,7 @@ what he wanted to do with my artwork. So it basically
 came down to form, substance, and audience.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-19-Home Brewed Avatars/animal-style.thumb.jpg" alt="First mock up for Scramble Legends" />
+    <img src="/img/posts/2013-04-19-Home Brewed Avatars/animal-style.thumb.jpg" alt="First mock up for Scramble Legends" />
     <figcaption>First mock up for Scramble Legends</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ of his unique line quality.  If we were to use a Watterson influence, I
 wanted to make sure I nailed that thick and lively line from his ink work.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-19-Home Brewed Avatars/watterson-style.thumb.jpg" alt="Watterson-inspired avatar style mock up for Scramble Legends" />
+    <img src="/img/posts/2013-04-19-Home Brewed Avatars/watterson-style.thumb.jpg" alt="Watterson-inspired avatar style mock up for Scramble Legends" />
     <figcaption>Bill Watterson inspired style</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ final asset was sent to Alex. This is why some sketches have characters saying
 something in word bubbles to encapsulate their backstory.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-19-Home Brewed Avatars/speech-bubble-villians.thumb.jpg" alt="Imagining a backstory helped bring characters to life" />
+    <img src="/img/posts/2013-04-19-Home Brewed Avatars/speech-bubble-villians.thumb.jpg" alt="Imagining a backstory helped bring characters to life" />
     <figcaption>Imagining a backstory helped bring characters to life</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ them four distinct reaction states.  The pipeline went a little
 something like this:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-19-Home Brewed Avatars/process-diagram.png" alt="Pipeline for creating final avatars" />
+    <img src="/img/posts/2013-04-19-Home Brewed Avatars/process-diagram.png" alt="Pipeline for creating final avatars" />
     <figcaption>Pipeline for creating final avatars</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ our constant dialog and understanding of each other’s role got us, and the gam
 aesthetic, to finish line.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-19-Home Brewed Avatars/scramble-legends-poster.thumb.jpg" alt="The Scramble Legend avatars together" />
+    <img src="/img/posts/2013-04-19-Home Brewed Avatars/scramble-legends-poster.thumb.jpg" alt="The Scramble Legend avatars together" />
     <figcaption>The Scramble Legend avatars together</figcaption>
 </figure>
 

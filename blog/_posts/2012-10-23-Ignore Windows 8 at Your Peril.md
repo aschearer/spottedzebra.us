@@ -33,7 +33,7 @@ latest operating system in the coming year. Not convinced? Take a look at the
 first year sales for Windows Vista and Windows 7<sup>2</sup>:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2012-10-23-Ignore Windows 8 at Your Peril/first-year-sales.png" alt="First Year Sales for Windows Vista and Windows 7"/>
+    <img src="/img/posts/2012-10-23-Ignore Windows 8 at Your Peril/first-year-sales.png" alt="First Year Sales for Windows Vista and Windows 7"/>
     <figcaption>
     In their first year, Windows 7 & Vista sold over 100,000,000 copies. 
     How many copies do you think Windows 8 will sell in its first year?
@@ -56,7 +56,7 @@ facts. For starters, the iOS marketplace is not as big as you think. Let us look
 at the number of iPhones and iPads sold in 2011<sup>4</sup>:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2012-10-23-Ignore Windows 8 at Your Peril/2011-sales-comparison.png" alt="Sales of iOS and Windows in 2011"/>
+    <img src="/img/posts/2012-10-23-Ignore Windows 8 at Your Peril/2011-sales-comparison.png" alt="Sales of iOS and Windows in 2011"/>
     <figcaption>
     In 2011 Windows sold twice as many copies as iOS. Sales may be converging, but 
     do you expect them to meet in 2012?
@@ -80,7 +80,7 @@ a survey run by Owen Goss at Streaming Colour most of the revenue is captured by
 a small handful of developers<sup>5</sup>:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2012-10-23-Ignore Windows 8 at Your Peril/revenue-distribution.png"/>
+    <img src="/img/posts/2012-10-23-Ignore Windows 8 at Your Peril/revenue-distribution.png"/>
     <figcaption>
     80% of game developers surveyed are fighting over 3% of total revenue on iOS. 
     How are you going to ensure you are not one of them?

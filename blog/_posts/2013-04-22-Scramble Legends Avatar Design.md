@@ -35,8 +35,8 @@ convinced the style would support as many
 characters as needed.
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/variability-test.jpg">
-        <img src="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/variability-test.thumb.jpg" alt="Testing for style variability"/>
+    <a href="/img/posts/2013-04-22-Scramble Legends Avatar Design/variability-test.jpg">
+        <img src="/img/posts/2013-04-22-Scramble Legends Avatar Design/variability-test.thumb.jpg" alt="Testing for style variability"/>
     </a>
     <figcaption>Testing for variability within the Tintin style</figcaption>
 </figure>
@@ -52,8 +52,8 @@ prototyping different emotions for some of the
 possible avatars:
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/expressiveness-test.jpg">
-        <img src="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/expressiveness-test.thumb.jpg" alt="Testing for style expressivesness"/>
+    <a href="/img/posts/2013-04-22-Scramble Legends Avatar Design/expressiveness-test.jpg">
+        <img src="/img/posts/2013-04-22-Scramble Legends Avatar Design/expressiveness-test.thumb.jpg" alt="Testing for style expressivesness"/>
     </a>
     <figcaption>Testing for expressiveness within the Tintin style</figcaption>
 </figure>
@@ -70,8 +70,8 @@ nine excellent avatars each with four distinct
 states!                            
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/final-avatars.jpg">
-        <img src="{{site.url}}/img/posts/2013-04-22-Scramble Legends Avatar Design/final-avatars.thumb.jpg" alt="Rought draft of the final avatars in Scramble Legends"/>
+    <a href="/img/posts/2013-04-22-Scramble Legends Avatar Design/final-avatars.jpg">
+        <img src="/img/posts/2013-04-22-Scramble Legends Avatar Design/final-avatars.thumb.jpg" alt="Rought draft of the final avatars in Scramble Legends"/>
     </a>
     <figcaption>Rought draft of the final avatars in Scramble Legends</figcaption>
 </figure>

@@ -41,7 +41,7 @@ game itself, I also removed the faux textures,
 gradients, and other distracting elements. 
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-15-Scramble Legends User Interface/iteration1.thumb.png" alt="Scramble Legends interface: first iteration" />
+    <img src="/img/posts/2013-04-15-Scramble Legends User Interface/iteration1.thumb.png" alt="Scramble Legends interface: first iteration" />
     <figcaption>Initial mock-up for Scramble Legends</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ game. They can bounce, wiggle, and change state in
 response to various game events.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-15-Scramble Legends User Interface/iteration2.thumb.png" alt="Scramble Legends interface: second iteration" />
+    <img src="/img/posts/2013-04-15-Scramble Legends User Interface/iteration2.thumb.png" alt="Scramble Legends interface: second iteration" />
     <figcaption>Second iteration featuring avatars</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ the screen. In their stead are the avatars,
 commanding the board from on high. 
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-15-Scramble Legends User Interface/iteration3.thumb.png" alt="Scramble Legends interface: third iteration" />
+    <img src="/img/posts/2013-04-15-Scramble Legends User Interface/iteration3.thumb.png" alt="Scramble Legends interface: third iteration" />
     <figcaption>Second iteration featuring avatars</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ In the end the game's user interface evolved a bit
 more to look like this:
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-15-Scramble Legends User Interface/iteration-final.thumb.png" alt="Final user interface Scramble Legends" />
+    <img src="/img/posts/2013-04-15-Scramble Legends User Interface/iteration-final.thumb.png" alt="Final user interface Scramble Legends" />
     <figcaption>In-game screenshot from Scramble Legends</figcaption>
 </figure>
 

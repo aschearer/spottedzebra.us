@@ -22,8 +22,8 @@ turn higher reviews. To some extent the data bears this out, the majority of the
 top 200 games are web enabled:
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-05-01-Ludum Dare Analysis/power-of-web.png">
-        <img src="{{site.url}}/img/posts/2013-05-01-Ludum Dare Analysis/power-of-web.png" alt="60% of the top 200 games in past Ludum Dares are web enabled" />
+    <a href="/img/posts/2013-05-01-Ludum Dare Analysis/power-of-web.png">
+        <img src="/img/posts/2013-05-01-Ludum Dare Analysis/power-of-web.png" alt="60% of the top 200 games in past Ludum Dares are web enabled" />
     </a>
     <figcaption>60% of the top 200 games in past Ludum Dares are web enabled</figcaption>
 </figure>
@@ -43,8 +43,8 @@ three LDs. This time I calculated the relationship between a given category and
 an entry's overall score:
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-05-01-Ludum Dare Analysis/rating-correlation.png">
-        <img src="{{site.url}}/img/posts/2013-05-01-Ludum Dare Analysis/rating-correlation.png" alt="Being fun and pretty correlated strongly with a higher overall score" />
+    <a href="/img/posts/2013-05-01-Ludum Dare Analysis/rating-correlation.png">
+        <img src="/img/posts/2013-05-01-Ludum Dare Analysis/rating-correlation.png" alt="Being fun and pretty correlated strongly with a higher overall score" />
     </a>
     <figcaption>Being fun and pretty correlated strongly with a higher overall score</figcaption>
 </figure>
@@ -65,8 +65,8 @@ thinking concretely about a game's graphics or humor leads players to rate a gam
 more harshly than when remembering their feelings of playing the game:
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-05-01-Ludum Dare Analysis/average-v-overall.png">
-        <img src="{{site.url}}/img/posts/2013-05-01-Ludum Dare Analysis/average-v-overall.png" alt="Average score correlates strongly with overall score, too" />
+    <a href="/img/posts/2013-05-01-Ludum Dare Analysis/average-v-overall.png">
+        <img src="/img/posts/2013-05-01-Ludum Dare Analysis/average-v-overall.png" alt="Average score correlates strongly with overall score, too" />
     </a>
     <figcaption>Average score correlates strongly with overall score, too</figcaption>
 </figure>

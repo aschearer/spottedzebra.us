@@ -24,7 +24,7 @@ brainstormed a number of ideas ranging from
 vegetables to super heroes to giant alligators.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/fantasy-style.thumb.jpg" alt="Fantasy avatar style mock up for Scramble Legends" />
+    <img src="/img/posts/2013-04-17-Scramble Legends Avatar Style/fantasy-style.thumb.jpg" alt="Fantasy avatar style mock up for Scramble Legends" />
     <figcaption>Imaginary animal style</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ the game each subsequent step is more expensive
 and time consuming. Measure twice cut once!
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/watterson-style.thumb.jpg" alt="Watterson-inspired avatar style mock up for Scramble Legends" />
+    <img src="/img/posts/2013-04-17-Scramble Legends Avatar Style/watterson-style.thumb.jpg" alt="Watterson-inspired avatar style mock up for Scramble Legends" />
     <figcaption>Bill Watterson inspired style</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ guiding concerns to aid us:
   * The ability to extend and adapt the art style for new needs, special promotions, etc.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/office-style.thumb.jpg" alt="Office avatar style mock up for Scramble Legends" />
+    <img src="/img/posts/2013-04-17-Scramble Legends Avatar Style/office-style.thumb.jpg" alt="Office avatar style mock up for Scramble Legends" />
     <figcaption>Office super heroes style</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ would be wrong! In fact, we are just getting
 started... but that's a story for next time.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-17-Scramble Legends Avatar Style/tintin-style.thumb.jpg" alt="Tintin inspired avatar style mock up for Scramble Legends" />
+    <img src="/img/posts/2013-04-17-Scramble Legends Avatar Style/tintin-style.thumb.jpg" alt="Tintin inspired avatar style mock up for Scramble Legends" />
     <figcaption>Tintin inspired style. The final style for the avatars in Scramble Legends</figcaption>
 </figure>
 

@@ -30,8 +30,8 @@ stopwatch ticks and so on.
 
 <figure>
     <audio controls>
-        <source src="{{site.url}}/downloads/posts/2013-05-15-Scramble Legends Sound Design/words-collected.wav" />
-        <source src="{{site.url}}/downloads/posts/2013-05-15-Scramble Legends Sound Design/words-collected.mp3" />
+        <source src="/downloads/posts/2013-05-15-Scramble Legends Sound Design/words-collected.wav" />
+        <source src="/downloads/posts/2013-05-15-Scramble Legends Sound Design/words-collected.mp3" />
         Your browser does not support the audio tag.
     </audio>
     <figcaption>A series of words being collected</figcaption>
@@ -64,8 +64,8 @@ and sounding right.
 
 <figure>
     <audio controls>
-        <source src="{{site.url}}/downloads/posts/2013-05-15-Scramble Legends Sound Design/word-exploded.wav" />
-        <source src="{{site.url}}/downloads/posts/2013-05-15-Scramble Legends Sound Design/word-exploded.mp3" />
+        <source src="/downloads/posts/2013-05-15-Scramble Legends Sound Design/word-exploded.wav" />
+        <source src="/downloads/posts/2013-05-15-Scramble Legends Sound Design/word-exploded.mp3" />
         Your browser does not support the audio tag.
     </audio>
     <figcaption>An explosive letter detonating in a word</figcaption>

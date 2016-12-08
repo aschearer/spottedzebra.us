@@ -55,4 +55,4 @@ The list is too long to enumerate here, but if you'd like to check them out visi
 [3]: https://www.penny-arcade.com/news/post/2015/07/23/pax-prime-pax-10
 [4]: http://www.giantbomb.com/pax-east-indie-showcase/3015-6700/
 [5]: https://software.intel.com/en-us/videos/intel-level-up-best-puzzle-game-tumblestone
-[6]: {{site.url}}/other-games
+[6]: /other-games

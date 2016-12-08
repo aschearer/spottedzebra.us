@@ -37,8 +37,8 @@ started it did not form any unintended words. Accidental words would mess up the
 chain reaction down the line and ruin the puzzle! 
 
 <figure>
-    <a href="{{site.url}}/img/posts/2013-05-03-Scramble Legends Overdrive Mode/puzzle-algorithm.jpg">
-        <img src="{{site.url}}/img/posts/2013-05-03-Scramble Legends Overdrive Mode/puzzle-algorithm.thumb.jpg" alt="The algorithm behind the word puzzle generator for Overdrive Mode" />
+    <a href="/img/posts/2013-05-03-Scramble Legends Overdrive Mode/puzzle-algorithm.jpg">
+        <img src="/img/posts/2013-05-03-Scramble Legends Overdrive Mode/puzzle-algorithm.thumb.jpg" alt="The algorithm behind the word puzzle generator for Overdrive Mode" />
     </a>
     <figcaption>The algorithm behind the word puzzle generator for Overdrive Mode</figcaption>
 </figure>

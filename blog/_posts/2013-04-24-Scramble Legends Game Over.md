@@ -41,7 +41,7 @@ This approach comes with a number of advantages:
   * Relatively easy to implement
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-24-Scramble Legends Game Over/wordament.thumb.png" alt="Wordament is a popular time limited word game" />
+    <img src="/img/posts/2013-04-24-Scramble Legends Game Over/wordament.thumb.png" alt="Wordament is a popular time limited word game" />
     <figcaption>Wordament is a popular time limited word game</figcaption>  
 </figure>
 
@@ -75,7 +75,7 @@ thorny design problem in its own right – but
 that's a story we'll explore another time.
 
 <figure>
-    <img src="{{site.url}}/img/posts/2013-04-24-Scramble Legends Game Over/scramble-legends-full-board.thumb.jpg" alt="Game over in Scramble Legends" />
+    <img src="/img/posts/2013-04-24-Scramble Legends Game Over/scramble-legends-full-board.thumb.jpg" alt="Game over in Scramble Legends" />
     <figcaption>Game over in Scramble Legends</figcaption>
 </figure>
 
@@ -86,4 +86,4 @@ and exciting gameplay.
 
 {% include scramble-legends-footer.html %}
 
-[1]: {{site.url}}/adlib
+[1]: /adlib
