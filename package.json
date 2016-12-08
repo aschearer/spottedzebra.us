@@ -1,0 +1,14 @@
+{
+  "name": "spottedzebra.us",
+  "version": "1.0.0",
+  "description": "Website for Spotted Zebra",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Schearer",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
