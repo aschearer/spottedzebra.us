@@ -70,3 +70,12 @@ sass:
   style: :compressed
 gems: [jekyll-paginate]
 permalink: blog/:slug.html
+exclude: [
+  "gulpfile.js",
+  "packages.json",
+  "_config.yml",
+  "_config_dev.yml",
+  ".gitignore",
+  "Gemfile*",
+  "node_modules",
+]
