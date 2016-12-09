@@ -78,5 +78,5 @@ states!
 
 {% include scramble-legends-footer.html %}
 
-[1]: {%post_url 2013-04-17-Scramble Legends Avatar Style%}
-[2]: {%post_url 2013-04-19-Home Brewed Avatars%}
+[1]: {%post_url blog/2013-04-17-Scramble_Legends_Avatar_Style%}
+[2]: {%post_url blog/2013-04-19-Home_Brewed_Avatars%}

@@ -7,7 +7,7 @@ author: Alex Schearer
 slug: consistency-and-azure-mobile-services
 ---
 
-Last time we looked at how you could [persist your game data using Azure Mobile Services]({%post_url 2013-05-22-Azure Mobile Services Game Data %}). 
+Last time we looked at how you could [persist your game data using Azure Mobile Services]({%post_url blog/2013-05-22-Azure_Mobile_Services_Game_Data %}). 
 Because Azure Mobile Services is a NoSQL data store I recommended that you denormalize 
 your data in order to reduce the number of requests needed to fetch things on the 
 client. All well and good, but this decision has a consequence. Namely, how do you 

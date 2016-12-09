@@ -103,5 +103,5 @@ using XAML, so stay tuned!
 {% include windows-8-dev-footer.html %}
                             
 [1]: http://msdn.microsoft.com/en-us/library/system.windows.controls.canvas.aspx
-[2]: {%post_url 2013-05-06-Writing a Windows 8 Game Loop%}
-[3]: {%post_url 2013-05-20-XAML Spritesheet Animation%}
+[2]: {%post_url blog/2013-05-06-Writing_a_Windows_8_Game_Loop%}
+[3]: {%post_url blog/2013-05-20-XAML_Spritesheet_Animation%}

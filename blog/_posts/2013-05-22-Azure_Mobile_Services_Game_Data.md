@@ -7,7 +7,7 @@ author: Alex Schearer
 slug: azure-mobile-services-game-data
 ---
 
-Previously I [recommended using Azure Mobile Services]({%post_url 2013-05-10-Azure Mobile Services or Cloud Storage %}) 
+Previously I [recommended using Azure Mobile Services]({%post_url blog/2013-05-10-Azure_Mobile_Services_or_Cloud_Storage %}) 
 to store your game's data in the cloud. Azure Mobile Services is a collection of tools 
 from Microsoft which attempt to solve common problems developers face when building 
 apps. Chief among them is the ability to persist data cheaply in the cloud. In this 
