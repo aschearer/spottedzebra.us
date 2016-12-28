@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alex Schearer",
-  "license": "ISC",
+  "author": "Alex Schearer <aschearer@spottedzebra.us>",
+  "license": "MIT",
   "devDependencies": {
     "gulp-exec": "^2.1.3",
     "gulp-util": "^3.0.7"
