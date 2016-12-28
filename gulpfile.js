@@ -11,6 +11,6 @@ gulp.task("default", function() {
 
 gulp.task("deploy", function() {
     return gulp.src('deploy.yaml')
-        .pipe(exec('"tools/stout-windows.exe" deploy --key ' + gutil.env.AWS_KEY + ' --secret ' + gutil.env.AWS_SECRET))
+        .pipe(exec('"tools/stout/stout-windows.exe" deploy --key ' + gutil.env.AWS_KEY + ' --secret ' + gutil.env.AWS_SECRET))
         .pipe(exec.reporter());
 });
