@@ -6,7 +6,7 @@ permalink: /scramble-legends/
 
 <div class="windows-surface">
     <div class="video">
-        <iframe src="http://www.youtube.com/embed/AG7kktfCPhw" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/AG7kktfCPhw" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <br />
