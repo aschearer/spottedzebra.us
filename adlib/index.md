@@ -15,8 +15,6 @@ In Adlib you'll have a blast flipping letters, spelling words, and keeping the b
 Adlib was an "Honorary Mention" in MochiMedia's "Word Play" contest and has been featured on Dictionary.com. 
 To date, Adlib has been enjoyed by over 500,000 people!
 
-<a class="button center" href="http://apps.microsoft.com/windows/app/adlib/7c910458-2502-490e-9294-29c645e05052">Play for free on Windows 8</a>
-
 <ol class="screenshots">
     <li><a href="screenshot1.jpg"><img src="screenshot1.thumb.jpg" /></a></li>
     <li><a href="screenshot2.jpg"><img src="screenshot2.thumb.jpg" /></a></li>

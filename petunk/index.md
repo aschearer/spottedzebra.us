@@ -15,8 +15,6 @@ In Petunk you'll have fun firing three balls onto a distant target, scaring away
 and watching out for bouncers, boosters, lions, and a host of other obstacles. Petunk features 
 handmade artwork, over thirty levels, and its fans agree – Petunk is a five-star game!
 
-<a class="button center" href="http://apps.microsoft.com/windows/app/petunk/73a1489b-1790-4646-9d0c-799bce42a00b">Play for free on Windows 8</a>
-
 <ol class="screenshots">
     <li><a href="screenshot1.jpg"><img src="screenshot1.thumb.jpg" /></a></li>
     <li><a href="screenshot2.jpg"><img src="screenshot2.thumb.jpg" /></a></li>

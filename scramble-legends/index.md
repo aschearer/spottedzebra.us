@@ -14,7 +14,8 @@ permalink: /scramble-legends/
 In Scramble Legends you'll have fun flipping letters, spelling words, and trying to bury your opponent. 
 Scramble Legends is a competitive, turn-based word game – find out which of your friends is the top speller!
 
-<a class="button center" href="http://apps.microsoft.com/windows/en-us/app/scramble-legends/c9542835-257b-4cea-8c68-175385fe1a1c">Play for free on Windows 8</a>
+
+<p><a class="button center" href="https://scramblelegends.spottedzebrasoftware.com/">Play for free on the Web</a></p>
 
 <ol class="screenshots">
     <li><a href="screenshot1.jpg"><img src="screenshot1.thumb.jpg" /></a></li>
