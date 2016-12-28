@@ -1,3 +1,3 @@
 default:
     root: '_site/'
-    bucket: 'wwww.spottedzebrasoftware.com'
+    bucket: 'www.spottedzebrasoftware.com'

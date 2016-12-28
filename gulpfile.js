@@ -10,7 +10,18 @@ gulp.task("default", function() {
 });
 
 gulp.task("deploy", function() {
-    return gulp.src('deploy.yaml')
-        .pipe(exec('"tools/stout/stout-windows.exe" deploy --key ' + gutil.env.AWS_KEY + ' --secret ' + gutil.env.AWS_SECRET))
-        .pipe(exec.reporter());
+    if (!process.env.AWS_KEY)
+    {
+        console.error("AWS_KEY not defined.");
+    }
+    else if (!process.env.AWS_SECRET)
+    {
+        console.error("AWS_SECRET not defined");
+    }
+    else
+    {
+        return gulp.src('deploy.yaml')
+            .pipe(exec('"tools/stout/stout-windows.exe" deploy --key ' + process.env.AWS_KEY + ' --secret ' + process.env.AWS_SECRET))
+            .pipe(exec.reporter());
+    }
 });
