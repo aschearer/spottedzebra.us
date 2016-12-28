@@ -43,7 +43,7 @@ Facebook | <a href="http://facebook.com/{{site.theme_settings.facebook}}">@Schea
   * Featured in the U.S. Windows Store — *Adlib, 2013*
   * [Top 10 Game on Windows 8][2] — *Adlib, 2012*
   * "Gold Star Award" for my contributions at Microsoft — *Microsoft, 2011*
-  * [Honorary Mention in MochiMedia's "Word Play" content][1] — *Adlib, 2009*
+  * [Honorary Mention in MochiMedia's "Word Play" contest][1] — *Adlib, 2009*
   * Lost Garden's "Silver Award" — *Shade, 2009*
 
 #### Other Games I've Created
