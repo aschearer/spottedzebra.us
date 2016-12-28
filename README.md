@@ -46,6 +46,17 @@ How to Publish a New Site
 
 TBD
 
+# Create the S3 bucket, CloudFront site, and Route53 configuration using Stout
+Open PowerShell in the project directory. Ensure `deploy.yaml` points to the correct target bucket and local source directory. From the command line enter:
+
+`.\tools\stout\stout-windows.exe create --key {AWS KEY} --secret {AWS SECRET}`
+
+Make sure to replace the key and secret with your AWS account's information. This will create a default configuration suitable for deployment and emit a new user's key and secret for future updates. Be sure to copy the key and secret somewhere safe.
+
+# Configure CloudFront
+Navigate to AWS CloudFront, select the newly created site, and edit its details. Under "SSL Certificate" select "Custom SSL Certificate" and save your changes. Next navigate to the Behaviors tab and edit the default behavior. Under "Viewer Protocol Policy" select "Redirect HTTP to HTTPS" and save changes.
+Finally, navigate to the Error Pages tab and configure error pages as necessary for the web page.
+
 How to Publish an Update to an Existing Site
 ---
 
