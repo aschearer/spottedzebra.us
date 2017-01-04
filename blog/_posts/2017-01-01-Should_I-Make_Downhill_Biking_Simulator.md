@@ -60,7 +60,6 @@ __Hypothesis 1.1__
 |Release date|5/27/16|
 |Number of reviews|78|
 |Review score|Very negative (10% positive)|
-|Steam Spy|[Link](http://steamspy.com/app/475990)|
 |Steam|[Link](http://store.steampowered.com/app/475990)|
 
 
@@ -71,7 +70,6 @@ __Hypothesis 1.1__
 |Release date|7/8/16|
 |Number of reviews|67|
 |Review score|Mixed (55% positive)|
-|Steam Spy|[Link](http://steamspy.com/app/381590)|
 |Steam|[Link](http://store.steampowered.com/app/381590)|
 
 ## Conclusion
