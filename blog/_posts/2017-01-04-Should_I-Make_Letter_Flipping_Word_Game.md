@@ -12,7 +12,7 @@ comments: true
 You have a board filled with letters. Move letters left and right to spell words down or across. Keep the letters from reaching the top of the board. Words are collected in real-time as you form them, triggering chain reactions.
 
 ## Hypothesis 1: "Sales Hypothesis"
-  > 5,000 Steam gamers wil pay $5 for a fast-paced, letter-flipping word game.
+  > 5,000 Steam gamers will pay $5 for a fast-paced, letter-flipping word game.
 
 ### Supporting Evidence
 #### Google Keyword Planner
