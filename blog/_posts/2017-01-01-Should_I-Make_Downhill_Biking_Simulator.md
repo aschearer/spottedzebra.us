@@ -101,5 +101,7 @@ And there you have it. I've tried to lay out the case for Downhill Biking Simula
 
 Based on the above I would rate our game idea as plausible and worthy of further investigation. I would have liked to have seen much better sales estimates for the existing Steam games, which would alleviate the need for hypothesis 1.1 – my biggest concern. Then again, this is likely what an underserved niche market looks like. Next step, determining if the market is underserved or non-existent.
 
+{% include should-i-make-footer.html %}
+
 [1]: https://www.kickstarter.com/projects/50786070/stoked-extreme-mountain-biking-a-multi-platform-vi
 [2]: http://yachtclubgames.com/2014/08/sales-one-month/

@@ -68,6 +68,8 @@ Following this analysis, it doesn’t seem that our word game is a very compelli
 
 That’s a very good question for a follow up analysis. But for now, we’re out of space. I hope you’ve enjoyed reading along as I worked through the pros and cons of making a word game for Steam. As always please share your reactions with me via e-mail or in person.
 
+{% include should-i-make-footer.html %}
+
 [1]: https://www.kickstarter.com/projects/2140824020/word-realms
 [2]: https://www.kickstarter.com/projects/jackboxgames/quiplash
 [3]: https://www.kickstarter.com/projects/paladium/apexicon-fantasy-puzzle-combat-puzzle-rpg
