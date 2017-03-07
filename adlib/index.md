@@ -21,3 +21,6 @@ To date, Adlib has been enjoyed by over 500,000 people!
     <li><a href="screenshot3.jpg"><img src="screenshot3.thumb.jpg" /></a></li>
     <li><a href="screenshot4.jpg"><img src="screenshot4.thumb.jpg" /></a></li>
 </ol>
+
+{% assign start-reading = true %}
+{% include adlib-footer.html %}
