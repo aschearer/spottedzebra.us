@@ -9,13 +9,13 @@ permalink: /about/
 </div>
 <br />
 
-Starting with my freshman-year summer spent teaching myself to program with PHP, 
+Starting with my freshman-year summer spent teaching myself to program in PHP, 
 I have logged over ten thousand hours writing code. I’m comfortable wading deep into 
 mission critical legacy code or laying the technical foundation for a new complex project.
 
 After graduating from Duke University with degrees in computer science and philosophy, 
 I joined Microsoft where I helped design the next generation of Outlook Web Access - 
-Outlook's web app. Whenever you schedule a meeting or use group mail you're using  features 
+Outlook's web app. Whenever you schedule a meeting or write mail you're using features 
 I developed. As a senior engineer at Microsoft I was responsible for the design and 
 development of new features for myself as well my feature crew.
 
