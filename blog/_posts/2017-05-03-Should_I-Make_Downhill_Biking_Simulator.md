@@ -72,6 +72,8 @@ __Hypothesis 1.1__
 |Review score|Mixed (55% positive)|
 |Steam|[Link](http://store.steampowered.com/app/381590)|
 
+*Note the data above was collected in January 2017 and may no longer be accurate following changes to the review system by Steam.*
+
 ## Conclusion
 So far, we've evaluated four types of evidence for our bike game. Taken individually no single piece of evidence can tell us whether our idea is viable. In fact, I would go one step further and claim that it's impossible to find evidence which affirmatively tells us to make this game. What we're really looking for are red flags so menacing that they scare us away from our game idea.
 
