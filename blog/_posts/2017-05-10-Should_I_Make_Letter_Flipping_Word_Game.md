@@ -12,14 +12,14 @@ comments: true
 You have a board filled with letters. Move letters left and right to spell words down or across. Keep the letters from reaching the top of the board. Words are collected in real-time as you form them, triggering chain reactions.
 
 ## Hypothesis 1: "Sales Hypothesis"
-  > 5,000 Steam gamers will pay $5 for a fast-paced, letter-flipping word game.
+  > 5,000 Steam players will pay $5 for a fast-paced, letter-flipping word game.
 
 ### Supporting Evidence
 #### Google Keyword Planner
 For this analysis, I’m going to skip Google Keyword Planner. Why? Because word games are not a niche genre. We know that word games are popular, at least on some platforms, because there are many examples we can point to. From yesteryear’s Bookworm Adventures to today’s Letterpress.
 
 #### Crowdfunding and Greenlight
-Kickstarter has several successfully funded word games. The [most successful][1] was launched in 2012 and is likely an outlier. The two more recent ones earned $30,000 and $5,000 respectively. Taking a closer look, the [more successful project][2] is part of the popular "Jack in the Box" series and as such is likely not indicative of an ordinary word game would fair. On the other hand, the second project, [Paladium][3] (launched in 2014), is a more typical word game and a reasonable starting point for discussion. While it succeeded, raising $5,000, its success doesn't support our hypothesis. [Projecting final sales based on pre-orders][6], we can stretch the numbers to predict $20,000 in sales upon release – short of our target.
+Kickstarter has several successfully funded word games. The [most successful][1] was launched in 2012 and is likely an outlier. The two more recent ones earned $30,000 and $5,000 respectively. Taking a closer look, the [more successful project][2] is part of the popular "Jackbox" series and as such is likely not indicative of an ordinary word game would fair. On the other hand, the second project, [Paladium][3] (launched in 2014), is a more typical word game and a reasonable starting point for discussion. While it succeeded, raising $5,000, its success doesn't support our hypothesis. [Projecting final sales based on pre-orders][6], we can stretch the numbers to predict $20,000 in sales upon release – short of our target.
 
 Looking at failed Kickstarters, the picture becomes clearer. "[Spellcaster Adventures][4]" (launched 2016) is comparable to the Paladium but failed to reach its $5,000 target. As did [Switch Words][5]. Both these titles are moderately well put together and feature a blend of word and RPG gameplay – likely more palatable to core gamers. Taken together, the evidence suggests that Kickstarter patrons are not very interested in word games nor likely to open their wallets very wide.
 
@@ -36,21 +36,21 @@ Turning to Steam, there is good news and bad news. The good news is there aren�
 
 Granted word games struggle on Steam, but is our game more like the winners or the losers? At least as pitched, our game is not an ideal fit. Steam's popular word games blend aspects of core gaming with word gameplay. Our game needs some progression mechanics, a light story, and possibly 3D artwork if it hopes to find an audience.
 
-Before we continue, I want to draw attention to one game in particular: Highrise Heroes. This title has been on the market since January 2016 and is the closest match to our game. So, does Highrise Heroes’ performance engender confidence? Not especially. SteamSpy estimates that Highrise Heroes has 12,000 owners – which puts it well above our target. Estimating owners by number of reviews tells a different story, however. With thirty-eight reviews, and using the math above, Highrise Heroes has 3,800 owners. So, Highrise Heroes supports our hypothesis, but just barely. The absence of several titles to resoundingly support our hypothesis, including a title so similar to ours, is a red flag that demand doesn’t exist.
+Before we continue, I want to draw attention to one game in particular: Highrise Heroes. This title has been on the market since January 2016 and is the closest match to our game. So, does Highrise Heroes’ performance engender confidence? Not especially. SteamSpy estimates that Highrise Heroes has 12,000 owners – which puts it well above our target. Estimating owners by number of reviews tells a different story, however. With thirty-eight reviews, and assuming 100 owners for each review, Highrise Heroes has 3,800 owners. So, Highrise Heroes supports our hypothesis, but just barely. The absence of several titles to resoundingly support our hypothesis, including a title so similar to ours, is a red flag that demand doesn’t exist.
 
 |Title|Number of Reviews|Review Sentiment|Release Date|Price|Number of Owners|Steam|
 |-|-|-|-|-|-|-|
-|Alphabeats|5|Positive|3/7/2016|$7.99|3,021|[Link](http://store.steampowered.com/app/420160)|
-|Word Wonders|5|Positive|5/8/2015|$4.99|1,955|[Link](http://store.steampowered.com/app/362790)|
-|Phrase Shift|6|Positive|11/30/2016|$2.99|1,077|[Link](http://store.steampowered.com/app/535980/)|
-|Ace of Words|15|Mixed|5/13/2016|$4.99|133,622|[Link](http://store.steampowered.com/app/398680)|
-|Scrabble|17|Mostly Positive|12/18/2015|$6.99|2,488|[Link](http://store.steampowered.com/app/403130/)|
-|God of Word|24|Positive|9/28/2016|$4.99|1,066|[Link](http://store.steampowered.com/app/467320)|
-|Highrise Heroes|38|Positive|1/8/2016|$4.99|12,261|[Link](http://store.steampowered.com/app/415670)|
+|Epistory|427|Very Positive|3/30/2016|$14.99|95,241|[Link](http://store.steampowered.com/app/398850)|
+|Letter Quest: Remastered|143|Very Positive|8/5/2015|$7.99|67,699|[Link](http://store.steampowered.com/app/373970/)|
 |Typoman|56|Very Positive|8/15/2016|$12.99|4,087|[Link](http://store.steampowered.com/app/336240)|
 |Stop Battle of Words|56|Mixed|1/15/2016|$4.99|22,033|[Link](http://store.steampowered.com/app/336240)|
-|Letter Quest: Remastered|143|Very Positive|8/5/2015|$7.99|67,699|[Link](http://store.steampowered.com/app/373970/)|
-|Epistory|427|Very Positive|3/30/2016|$14.99|95,241|[Link](http://store.steampowered.com/app/398850)|
+|Highrise Heroes|38|Positive|1/8/2016|$4.99|12,261|[Link](http://store.steampowered.com/app/415670)|
+|God of Word|24|Positive|9/28/2016|$4.99|1,066|[Link](http://store.steampowered.com/app/467320)|
+|Scrabble|17|Mostly Positive|12/18/2015|$6.99|2,488|[Link](http://store.steampowered.com/app/403130/)|
+|Ace of Words|15|Mixed|5/13/2016|$4.99|133,622|[Link](http://store.steampowered.com/app/398680)|
+|Phrase Shift|6|Positive|11/30/2016|$2.99|1,077|[Link](http://store.steampowered.com/app/535980/)|
+|Alphabeats|5|Positive|3/7/2016|$7.99|3,021|[Link](http://store.steampowered.com/app/420160)|
+|Word Wonders|5|Positive|5/8/2015|$4.99|1,955|[Link](http://store.steampowered.com/app/362790)|
 
 ## Conclusion
 We’ve evaluated two sources of evidence and found the results lacking. Word games don’t excite PC gamers on Kickstarter or Steam. Because the market is tepid, success hinges on launching a top title. It must be at least as successful as Highrise Heroes. While doing so is plausible – there are few competitors, after all, and they generally are of low quality – it seems like a high risk, low reward situation when the payout is measured in low thousands of copies sold.
