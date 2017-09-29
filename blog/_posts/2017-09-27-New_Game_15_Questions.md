@@ -88,6 +88,8 @@ My goal with the above questions isn't to find a formula that guarantees success
 
 Of course, it's OK to make a game which can't plausibly succeed. And history is filled with stories of games beating the odds. But game development is extremely risky. There are so many unknown factors which affect a game's chances. I want to do everything I can to make sure the known factors are working in my favor. Borrowing from Buffett once again: it's easier to succeed when tailwinds prevail.<sup>[5][5]</sup>
 
+{% include should-i-make-footer.html %}
+
 [1]: http://www.berkshirehathaway.com/letters/1989.html
 [2]: https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 [3]: https://www.youtube.com/watch?v=ZwQpPqPKbAw
