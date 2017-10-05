@@ -21,7 +21,7 @@ development of new features for myself as well my feature crew.
 
 Outside of Microsoft I have developed a number of award winning independent games across 
 many platforms and using many languages. Most recently I developed and released Tumblestone 
-on Mac, PC, PlayStation 4, Xbox One, and Wii U. Tumblestone won Intel’s 
+on Mac, PC, PlayStation 4, Xbox One, Wii U, Switch, iOS, and Android. Tumblestone won Intel’s 
 “Level Up: Best Puzzle Game” award, was selected for the PAX 10 and PAX East Indie Showcase, 
 and launched in July as part of Xbox Game’s with Gold. The game features local and online 
 multiplayer, a 30-hour story mode with cutscenes, boss battles, 3 arcade modes, 
